@@ -1,0 +1,23 @@
+
+ENTIDADES
+- Categoria
+- Produto
+- Cliente
+- Endereco
+- Pedido
+- Pedido_Item
+
+ESPECIFICAÇÕES
+- CRUDs ....
+- Cadastro de clientes
+- Criação de pedidos
+	- Gerar número do pedido
+- Controle de Status do pedido
+	- Cancelamento do pedido
+
+PRÓXIMAS IMPLEMENTAÇÕES
+- Carrinho de compras
+- Controle de estoque
+
+
+
